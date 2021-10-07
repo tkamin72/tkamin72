@@ -3,4 +3,4 @@
 ##### I'm a managing partner at Ping Software USA. 
 ##### I'm a Warehouse Manager at Flagpoles ETC.
 
-######I thouroughly love what I do which makes it not like work.
+###### I thouroughly love what I do which makes it not like work.
