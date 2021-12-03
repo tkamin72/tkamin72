@@ -4,3 +4,10 @@
 ##### I'm a Warehouse Manager at Flagpoles ETC.
 
 ###### I thouroughly love what I do which makes it not like work.
+
+
+
+
+
+
+https://img.shields.io/github/followers/tkamin72?style=social
