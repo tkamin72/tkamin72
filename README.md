@@ -10,4 +10,5 @@
 
 
 
-https://img.shields.io/github/followers/tkamin72?style=social
+
+[![GitHub](https://img.shields.io/github/followers/tkamin72?style=social)]
